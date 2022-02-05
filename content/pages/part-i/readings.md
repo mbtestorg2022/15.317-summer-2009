@@ -6,16 +6,209 @@ title: Readings
 uid: 380501db-93e9-62a6-5525-abbbbe5b81dc
 ---
 
-| SES # | TOPICS | READINDS |
-| --- | --- | --- |
-| 1 | Introduction to the two-year LGO journey |  {{< br >}}{{< br >}} Ancona, Deborah. "Leadership in an Age of Uncertainty." MIT Leadership Center, 2005. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://ebusiness.mit.edu/research/Briefs/Ancona_Leadership_Final_VI.pdf)) {{< br >}}{{< br >}} The Nobel Foundation. "[Wangari Maathai Biography](http://www.nobelprize.org/nobel_prizes/peace/laureates/2004/maathai-bio.html)." Nobelprize.org. {{< br >}}{{< br >}} The Nobel Foundation. "[Wangari Maathai Nobel Lecture](http://www.nobelprize.org/nobel_prizes/peace/laureates/2004/maathai-lecture-text.html)." Nobelprize.org. {{< br >}}{{< br >}} Maathai, Wangari. Chapter 6 in _Unbowed: A Memoir_. Anchor Books, 2007. ISBN: 9780307275202. {{< br >}}{{< br >}}  |
-| 2 | Traits vs. situational leadership; Leading and following |  {{< br >}}{{< br >}} Background for Leadership Debates ([PDF]({{< baseurl >}}/resources/mit15_317sum09_read02)) {{< br >}}{{< br >}} Fry, Maddy. "[Bono Biography](http://www.atu2.com/band/bono/)." @ U2. {{< br >}}{{< br >}} BBC News. "[Voice of Influential U2 Frontman](http://news.bbc.co.uk/2/hi/entertainment/4540228.stm)." {{< br >}}{{< br >}} Captur, Gabriella. "[Memento for René Favaloro](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC387434/)." _Texas Heart Institute Journal_ 31, no. 1 (2004): 47-60. {{< br >}}{{< br >}} Heifetz, Ronald A. "Mobilizing Adaptive Work." Chapter 4 in _Leadership Without Easy Answers_. Harvard University Press, 1998. ISBN: 9780674518582. {{< br >}}{{< br >}}  |
-| 3 | Distributed leadership |  {{< br >}}{{< br >}} Carlile, Arthur E. "MacGregor." _Organizational Dynamics_ 5, no. 1 (1996): 50-62. {{< br >}}{{< br >}} Fleming, Lee. "Photovoltaic Breakthrough." Harvard Business School Case. Harvard Business School Publishing. Case: 9-604-034, September 4, 2003. {{< br >}}{{< br >}}  |
-| 4 | Team processes | Ancona, Deborah G., Thomas A. Kochan, Maureen Scully, John Van Maanen, and D. Eleanor Westney. "Team Processes." Module 5 in _Managing for the Future: Organizational Behavior and Processes_. South-Western College Publishing, 2004. ISBN: 9780324055757. |
-| 5 | Transformational leadership |  {{< br >}}{{< br >}} Klein, Janice. Chapters 2 and 3 in _True Change: How Outsiders on the Inside Get Things Done in Organizations_. Jossey-Bass/Wiley, 2004. ISBN: 9780787974732. {{< br >}}{{< br >}} Gerstner, Louis V., Jr. Chapters 20-22 in _Who Says Elephants Can't Dance_. Harper Collins Publishers, 2002. ISBN: 9780060523794. {{< br >}}{{< br >}} Leonard, Frank S. "Hank Kolb, Director, Quality Assurance." Harvard Business School Case. Harvard Business School Publishing. Case: 9-681-083, March 1, 1981. {{< br >}}{{< br >}}  |
-| 6 | Don Davis/Bill Hanson | &nbsp; |
-| 7 | Leadership development planning and alum panel | &nbsp; |
-| 8 | Leadership, ethics, and authority (Leigh Hafrey) |  {{< br >}}{{< br >}} Bolt, Robert. _A Man for All Seasons_. Vintage Books, 1990. ISBN: 9780679728221. {{< br >}}{{< br >}} {{< h 3 >}}Watch{{< /h >}} {{< br >}}{{< br >}} [_The Queen_](http://www.imdb.com/title/tt0436697/), directed by Stephen Frears, 2006. {{< br >}}{{< br >}}  |
-| 9 | Leadership: Innovation and social control (Leigh Hafrey) |  {{< br >}}{{< br >}} Hagel, John, and John Seely Brown. "[Innovating on the Edge of Big Waves](http://www.businessweek.com/innovate/content/jan2008/id20080130_724732.htm)." _Business Week_, January 20, 2008. {{< br >}}{{< br >}} Joy, Bill. "[Why the Future Doesn't Need Us](http://www.wired.com/wired/archive/8.04/joy.html)." _Wired_, April 2000. {{< br >}}{{< br >}} Hawken, Paul, Amory Lovins, and L. Hunter Lovins. "Once Upon a Planet." Chapter 15 in _Natural Capitalism: Creating the Next Industrial Revolution_. Back Bay Books, 2008. ISBN: 9780316353007. {{< br >}}{{< br >}} {{< h 3 >}}Watch{{< /h >}} {{< br >}}{{< br >}} [_Riding Giants_](http://www.imdb.com/title/tt0389326/), directed by Stacy Peralta, 2004. {{< br >}}{{< br >}}  |
-| 10 | Leadership reaction course | &nbsp; |
-| 11 | Reflections on summer teams and leadership |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINDS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to the two-year LGO journey
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Ancona, Deborah. "Leadership in an Age of Uncertainty." MIT Leadership Center, 2005. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://ebusiness.mit.edu/research/Briefs/Ancona_Leadership_Final_VI.pdf))
+
+The Nobel Foundation. "[Wangari Maathai Biography](http://www.nobelprize.org/nobel_prizes/peace/laureates/2004/maathai-bio.html)." Nobelprize.org.
+
+The Nobel Foundation. "[Wangari Maathai Nobel Lecture](http://www.nobelprize.org/nobel_prizes/peace/laureates/2004/maathai-lecture-text.html)." Nobelprize.org.
+
+Maathai, Wangari. Chapter 6 in _Unbowed: A Memoir_. Anchor Books, 2007. ISBN: 9780307275202.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Traits vs. situational leadership; Leading and following
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Background for Leadership Debates ([PDF]({{< baseurl >}}/resources/mit15_317sum09_read02))
+
+Fry, Maddy. "[Bono Biography](http://www.atu2.com/band/bono/)." @ U2.
+
+BBC News. "[Voice of Influential U2 Frontman](http://news.bbc.co.uk/2/hi/entertainment/4540228.stm)."
+
+Captur, Gabriella. "[Memento for René Favaloro](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC387434/)." _Texas Heart Institute Journal_ 31, no. 1 (2004): 47-60.
+
+Heifetz, Ronald A. "Mobilizing Adaptive Work." Chapter 4 in _Leadership Without Easy Answers_. Harvard University Press, 1998. ISBN: 9780674518582.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Distributed leadership
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Carlile, Arthur E. "MacGregor." _Organizational Dynamics_ 5, no. 1 (1996): 50-62.
+
+Fleming, Lee. "Photovoltaic Breakthrough." Harvard Business School Case. Harvard Business School Publishing. Case: 9-604-034, September 4, 2003.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Team processes
+{{< tdclose >}}
+{{< tdopen >}}
+Ancona, Deborah G., Thomas A. Kochan, Maureen Scully, John Van Maanen, and D. Eleanor Westney. "Team Processes." Module 5 in _Managing for the Future: Organizational Behavior and Processes_. South-Western College Publishing, 2004. ISBN: 9780324055757.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Transformational leadership
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Klein, Janice. Chapters 2 and 3 in _True Change: How Outsiders on the Inside Get Things Done in Organizations_. Jossey-Bass/Wiley, 2004. ISBN: 9780787974732.
+
+Gerstner, Louis V., Jr. Chapters 20-22 in _Who Says Elephants Can't Dance_. Harper Collins Publishers, 2002. ISBN: 9780060523794.
+
+Leonard, Frank S. "Hank Kolb, Director, Quality Assurance." Harvard Business School Case. Harvard Business School Publishing. Case: 9-681-083, March 1, 1981.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Don Davis/Bill Hanson
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Leadership development planning and alum panel
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Leadership, ethics, and authority (Leigh Hafrey)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Bolt, Robert. _A Man for All Seasons_. Vintage Books, 1990. ISBN: 9780679728221.
+
+### Watch
+
+[_The Queen_](http://www.imdb.com/title/tt0436697/), directed by Stephen Frears, 2006.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Leadership: Innovation and social control (Leigh Hafrey)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Hagel, John, and John Seely Brown. "[Innovating on the Edge of Big Waves](http://www.businessweek.com/innovate/content/jan2008/id20080130_724732.htm)." _Business Week_, January 20, 2008.
+
+Joy, Bill. "[Why the Future Doesn't Need Us](http://www.wired.com/wired/archive/8.04/joy.html)." _Wired_, April 2000.
+
+Hawken, Paul, Amory Lovins, and L. Hunter Lovins. "Once Upon a Planet." Chapter 15 in _Natural Capitalism: Creating the Next Industrial Revolution_. Back Bay Books, 2008. ISBN: 9780316353007.
+
+### Watch
+
+[_Riding Giants_](http://www.imdb.com/title/tt0389326/), directed by Stacy Peralta, 2004.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Leadership reaction course
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Reflections on summer teams and leadership
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

@@ -6,7 +6,18 @@ title: Stakeholder Analysis
 uid: 2f105422-3ed0-214d-28a7-ad1399295bff
 ---
 
-| « Back to: [Assignments]({{< baseurl >}}/pages/internship/assignments) | Next: [The Three Perspectives on Organizational Processes]({{< baseurl >}}/pages/internship/assignments/the-three-perspectives-on-organizational-processes) » 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Back to: [Assignments]({{< baseurl >}}/pages/internship/assignments)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: [The Three Perspectives on Organizational Processes]({{< baseurl >}}/pages/internship/assignments/the-three-perspectives-on-organizational-processes) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Due: July, Year 2
 

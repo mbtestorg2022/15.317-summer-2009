@@ -6,7 +6,18 @@ title: The Three Perspectives on Organizational Processes
 uid: f17a2670-9292-2e3b-a84b-ef3606a69b44
 ---
 
-| « Previous: [Stakeholder Analysis]({{< baseurl >}}/pages/internship/assignments/stakeholder-analysis) | Back to: [Assignments]({{< baseurl >}}/pages/internship/assignments) » 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: [Stakeholder Analysis]({{< baseurl >}}/pages/internship/assignments/stakeholder-analysis)
+{{< tdclose >}}
+{{< tdopen >}}
+Back to: [Assignments]({{< baseurl >}}/pages/internship/assignments) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Due: September, Year 2
 
@@ -49,4 +60,15 @@ POLITICAL: Building off your stakeholder map (most likely, you will want to revi
 
 CONCLUSIONS: What are your key take-aways for your internship based on this analysis? What action plans does it suggest?
 
-| « Previous: [Stakeholder Analysis]({{< baseurl >}}/pages/internship/assignments/stakeholder-analysis) | Back to: [Assignments]({{< baseurl >}}/pages/internship/assignments) »
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: [Stakeholder Analysis]({{< baseurl >}}/pages/internship/assignments/stakeholder-analysis)
+{{< tdclose >}}
+{{< tdopen >}}
+Back to: [Assignments]({{< baseurl >}}/pages/internship/assignments) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
