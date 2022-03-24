@@ -32,7 +32,7 @@ Introduction to the two-year LGO journey
 {{< tdopen >}}
 
 
-Ancona, Deborah. "Leadership in an Age of Uncertainty." MIT Leadership Center, 2005. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://ebusiness.mit.edu/research/Briefs/Ancona_Leadership_Final_VI.pdf))
+Ancona, Deborah. "Leadership in an Age of Uncertainty." MIT Leadership Center, 2005. ([PDF](http://ebusiness.mit.edu/research/Briefs/Ancona_Leadership_Final_VI.pdf))
 
 The Nobel Foundation. "[Wangari Maathai Biography](http://www.nobelprize.org/nobel_prizes/peace/laureates/2004/maathai-bio.html)." Nobelprize.org.
 
