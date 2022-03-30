@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: c75e6831-443f-3feb-3e76-75b979c32f1a
 resourcetype: Image
 title: LGO_pyramid.jpg
 uid: aa1b585b-86d6-3985-d4f7-5a63ece68085

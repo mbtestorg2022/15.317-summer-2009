@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 2f105422-3ed0-214d-28a7-ad1399295bff
 resourcetype: Image
 title: assn01.jpg
 uid: f5af3d2c-3188-475f-5ab0-2da69bea3cd9
